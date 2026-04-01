@@ -11,6 +11,7 @@ The project contains three main pages:
 1. Sign Up Page
 2. Company Registration Page
 3. Admin Login Page
+RESEARCH PAPER LINK:https://www.ijniet.org/wp-content/uploads/2024/05/391.pdf
 
 ## Technologies Used
 - HTML
