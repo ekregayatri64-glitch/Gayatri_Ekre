@@ -17,6 +17,13 @@ The project contains three main pages:
 - CSS
 
 ## Project Structure
+## Research Paper Reference
+
+This project is based on the research paper:
+
+Book Recommendation System  
+Link to the research paper:  
+https://www.ijniet.org/wp-content/uploads/2024/05/391.pdf
 
 jobportal/
 │
