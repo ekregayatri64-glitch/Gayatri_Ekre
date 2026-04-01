@@ -17,7 +17,7 @@ The project contains three main pages:
 - CSS
 
 ## Project Structure
-
+https://www.ijniet.org/wp-content/uploads/2024/05/391.pdf
 jobportal/
 │
 ├── signup.html
